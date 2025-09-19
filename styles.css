@@ -1,16 +1,18 @@
 body{
   color: yellow;
   background: purple;
-  margin: 0px
+  margin: 0 px
 }
 
 header{
-  border-bottom: solid 3px rgb (255,0,255);
-  padding: 20px;
-  font-size: 32px;
+  border-bottom: solid 3 px rgb (255,0,255);
+  padding: 20 px;
+  font-size: 32 px;
   color: rgb (255,0,255);
 }
 
 section {
 background: rgb (184, 156, 213);
+padding-bottom: 80 px;
+padding-top: 80 px
 }
