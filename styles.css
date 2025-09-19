@@ -3,3 +3,6 @@ body{
   background: purple;
 }
 
+header{
+  border-bottom: solid 3px rgb (100,97,78);
+}
